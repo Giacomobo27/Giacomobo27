@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a passionate Computer Science and Engineering student with a keen interest in everything tech related.
 Proficient trilingual speaker in English, Mandarin, and Italian, (and other programming languages)
 <div style="text-align: center;">
-<img src="https://miro.medium.com/max/1400/1*Nchuy0wCFHYnq3Vle-Ex0Q.png" alt="bo" width=700>
+<img src="https://miro.medium.com/max/1400/1*Nchuy0wCFHYnq3Vle-Ex0Q.png" alt="bo" width=550>
 </div>
 ## 🔧 Skills & Tools
 
