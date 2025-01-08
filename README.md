@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 I'm a passionate Computer Science and Engineering student with a keen interest in everything tech related.
+Proficient trilingual speaker in English, Mandarin, and Italian, (and other programming languages)
 
 ---
 
