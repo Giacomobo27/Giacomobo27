@@ -32,5 +32,5 @@ I'm a passionate Computer Science and Engineering student with a keen interest i
 ## 📫 Contact Me
 
 - [Email](olorogio27@gmail.com)
-- [LinkedIn](www.linkedin.com/in/giacomo-jin-5a0b1b265)
+- [LinkedIn](https://www.linkedin.com/in/giacomo-jin-5a0b1b265/)
 
