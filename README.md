@@ -1,5 +1,7 @@
 # 💫 About Me:
 I'm a passionate Computer Science and Engineering student with a keen interest in everything tech related.<br><br>Proficient trilingual speaker in English, Mandarin, and Italian
+<br><br>compound interest
+
 
 
 ## 🌐 Socials:
